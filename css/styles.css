@@ -1,7 +1,8 @@
 div {
     line-height: 1.83em;
-    background: purple;
+    background: rgb(64, 127, 205);
     border-style: solid;
+    border-color:rgb(9, 46, 101);
     text-align: center;
-    color: white;
+    color: black;
 }
