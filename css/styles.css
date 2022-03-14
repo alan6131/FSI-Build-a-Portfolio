@@ -1,8 +1,11 @@
-div {
+div{
     line-height: 1.83em;
     background: rgb(64, 127, 205);
+    border-width: 50px;
     border-style: solid;
     border-color:rgb(9, 46, 101);
+    border-radius: 30px 100px;
     text-align: center;
     color: black;
 }
+
